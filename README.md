@@ -2,7 +2,7 @@
 
 My name is Vincent Talen and I am currently studying the Bachelor Bioinformatics at the Hanze University of Applied Sciences in the Netherlands!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincenttalen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-talen) 
 
 ---
 ### 💻 Tech Stack:
