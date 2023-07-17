@@ -15,3 +15,23 @@ My name is Vincent Talen and I am currently studying the Bachelor Bioinformatics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+#### Some other things I've used (in no particular order):
+chopper, minimap2, samtools, bamtools, bcftools, featureCounts, medaka, FastQC, Bowtie 2, bwa  
+Bioconductor, Biopython, Bioconda, Galaxy, Weka, GNU Parallel, MPI (MPI4Py), Slurm, PySpark, Snakemake  
+BLAST, Fasta, Clustal, GenBank, PDB, EMBL, Pfam, KEGG, Interpro  
+
+---
+### Some projects I've worked on:
+- [**Project Gene Expression Analysis:** *(BIN Year 2 - Period 7)*](https://github.com/Vincent-Talen/Project-Gene-Expression-Analysis)  
+    + Performing an Exploratory Data Analysis and finding Differentially Expressed Genes
+- [**Project Systems Biology:** *(BIN Year 2 - Period 8)*](https://github.com/Vincent-Talen/Project-Systems-Biology)  
+    + Simulating a biological system using R and the package DeSolve
+- **Project Research Web Applications** (Private)**:** *(BIN Year 3 - Period 10)*  
+    + Creating a web application for laboratory equipment booking using Java, Gradle, Tomcat and Thymeleaf
+- [**Advanced Datamining:** *(BIN Year 3 - Period 11)*](https://github.com/Vincent-Talen/Advanced-Datamining)  
+    + Programming my own neural network module in Python
+- [**Big Data Computing:** *(BIN Year 3 - Period 12)*](https://github.com/Vincent-Talen/BDC)  
+    + High-performance Computing using Python Multiprocessing, MPI4Py, Slurm and PySpark
+- **Minor Project** (Private)**:** *(BIN Year 3 - Minor)*  
+    + Improving and adapting a Snakemake pipeline to support dynamic pathogen typing
