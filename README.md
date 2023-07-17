@@ -22,7 +22,7 @@ Bioconductor, Biopython, Bioconda, Galaxy, Weka, GNU Parallel, MPI (MPI4Py), Slu
 BLAST, Fasta, Clustal, GenBank, PDB, EMBL, Pfam, KEGG, Interpro  
 
 ---
-### Some projects I've worked on:
+### Some notable projects I've worked on so far:
 - [**Project Gene Expression Analysis:** *(BIN Year 2 - Period 7)*](https://github.com/Vincent-Talen/Project-Gene-Expression-Analysis)  
     + Performing an Exploratory Data Analysis and finding Differentially Expressed Genes
 - [**Project Systems Biology:** *(BIN Year 2 - Period 8)*](https://github.com/Vincent-Talen/Project-Systems-Biology)  
