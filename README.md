@@ -30,8 +30,13 @@ BLAST, Fasta, Clustal, GenBank, PDB, EMBL, Pfam, KEGG, Interpro
 - **Project Research Web Applications** (Private)**:** *(BIN Year 3 - Period 10)*  
     + Creating a web application for laboratory equipment booking using Java, Gradle, Tomcat and Thymeleaf
 - [**Advanced Datamining:** *(BIN Year 3 - Period 11)*](https://github.com/Vincent-Talen/Advanced-Datamining)  
-    + Programming my own neural network module in Python
+    + Programming and implementing a neural network as my own package in Python  
+    + (Currently set to private because of plagiarism concerns)
 - [**Big Data Computing:** *(BIN Year 3 - Period 12)*](https://github.com/Vincent-Talen/BDC)  
-    + High-performance Computing using Python Multiprocessing, MPI4Py, Slurm and PySpark
+    + High-performance Computing using Python Multiprocessing, MPI4Py, Slurm and PySpark  
+    + (Currently set to private because of plagiarism concerns)
 - **Minor Project** (Private)**:** *(BIN Year 3 - Minor)*  
     + Improving and adapting a Snakemake pipeline to support dynamic pathogen typing
+- **Internship Project** (Private)**:** *(BIN Year 4 - Internship)*  
+    + Reimplementing, improving and expanding a Python tool that constructs an as-sparse-as-possible protein-protein interaction network given a set of input genes, using the STRING database  
+    + Developed a web application to make usage of the tool more accessible for researchers, using Python, Django, React, Tailwind CSS, Celery and Redis
