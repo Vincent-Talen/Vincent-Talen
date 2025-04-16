@@ -75,8 +75,7 @@ BLAST, Fasta, Clustal, GenBank, PDB, EMBL, Pfam, KEGG, Interpro
 - [**Advanced Datamining:** *(BIN Year 3 - Period 11)*](https://github.com/Vincent-Talen/Advanced-Datamining)  
     + Programming and implementing a neural network as my own package in Python
 - [**Big Data Computing:** *(BIN Year 3 - Period 12)*](https://github.com/Vincent-Talen/BDC)  
-    + High-performance Computing using Python Multiprocessing, MPI4Py, Slurm and PySpark  
-    + (Currently set to private because of plagiarism concerns)
+    + High-performance Computing using Python Multiprocessing, MPI4Py, Slurm and PySpark
 - **Minor Project** (Private)**:** *(BIN Year 3 - Minor)*  
     + Improving and adapting a Snakemake pipeline to support dynamic pathogen typing
 - **Internship Project** (Private)**:** *(BIN Year 4 - Internship)*  
